@@ -1,6 +1,6 @@
 ## 👋 Olá, me chamo Geivison Sales!
 
-- 🔭 Atualmente estou trabalhando em **Olinda-PE**, como **Desenvolvedor Web Junior**.
+- 🔭 Atualmente estou trabalhando em **Olinda-PE**, como **Desenvolvedor Web**.
 - 💖 Minha linguagem preferida é: **PHP**.
 - 🌐 Sou um dos fundadores da: **https://Nikyus.com** e **https://NikyusHosting.com**.
 - 📫 Como entrar em contato comigo: **geivison.sales@nikyus.com**
