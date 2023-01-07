@@ -1,6 +1,6 @@
 ## 👋 Olá, me chamo Geivison Sales!
 
-- 🔭 Atualmente estou trabalhando em **Neogrid**, como **Desenvolvedor Web**.
+- 🔭 Atualmente estou trabalhando na **Neogrid**, como **Desenvolvedor Web**.
 - 💖 Minha linguagem preferida é: **PHP**.
 - 🌐 Sou um dos fundadores da: **https://nikyus.com**, **https://nikyushosting.com** e **https://servercreator.gg**.
 - 📫 Como entrar em contato comigo: **geivisonsales4@gmail.com**
