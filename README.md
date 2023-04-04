@@ -2,7 +2,8 @@
 
 - 🔭 Atualmente estou trabalhando na **Neogrid**, como **Desenvolvedor Web**.
 - 💖 Minha linguagem preferida é: **PHP**.
-- 🌐 Sou um dos fundadores da: **https://nikyus.com**, **https://nikyushosting.com** e **https://servercreator.gg**.
+- 🌐 Sou um dos fundadores da: **https://nikyus.com**, **https://nikyushosting.com**, **https://servercreator.gg**.
+- 🌐 Fundador e CEO da: **https://cimehost.com.br**
 - 📫 Como entrar em contato comigo: **geivisonsales4@gmail.com**
 
 ### Ferramentas e Tecnologias
