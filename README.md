@@ -1,8 +1,8 @@
 ## 👋 Olá, me chamo Geivison Sales!
 
 - 🔭 Atualmente estou trabalhando na **Neogrid**, como **Desenvolvedor Web**.
-- 🌐 Sou um dos fundadores da: **https://nikyus.com**, **https://nikyushosting.com**, **https://servercreator.gg**.
-- 🌐 Fundador e CEO da: **https://cimehost.com.br**
+- 🔧 Sou Desenvolvedor .NET
+- 🌐 Sou um dos fundadores e desenvolvedores da(s): **Nikyus**, **NikyusHosting**, **Servercreator**, **Cimehost**.
 - 📫 Como entrar em contato comigo: **geivisonsales4@gmail.com**
 
 ### Ferramentas e Tecnologias
