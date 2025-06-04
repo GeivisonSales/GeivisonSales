@@ -1,6 +1,6 @@
 ## 👋 Olá, me chamo Geivison Sales!
 
-- 🔧 Sou Desenvolvedor .NET
+- 🔧 Desenvolvedor .NET Fullstack
 - 🌐 Sou um dos fundadores e desenvolvedores da(s): **Nikyus**, **NikyusHosting**, **Servercreator**, **Cimehost**.
 - 📫 Como entrar em contato comigo: **geivisonsales4@gmail.com**
 
