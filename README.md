@@ -20,7 +20,7 @@ Secure tunneling, networking, and infrastructure platform.
 
 ### 🖥️ ServerCreator
 
-Modern game server management and hosting platform.
+Modern game server management.
 
 **Website:** https://servercreator.net
 
