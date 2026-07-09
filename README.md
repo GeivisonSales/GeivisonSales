@@ -1,43 +1,60 @@
-# Hi there, I'm Geivison Sales 👋
+# <h1 align="center">Hi, I'm Geivison Sales 👋</h1>
 
-I'm a **Full Stack Software Engineer** passionate about building scalable SaaS products, cloud infrastructure, networking, and developer tools.
+<p align="center">
+  <b>Full Stack Software Engineer • SaaS Founder • Infrastructure & Networking</b>
+</p>
 
-## 🚀 What I'm Building
+<p align="center">
+Building products that power developers, game servers, and secure networking.
+</p>
 
-* 🌐 **Co-founder & Software Engineer** at **Portwarp**
-  Secure tunneling, networking, and infrastructure platform.
-  https://portwarp.com
+---
 
-* 🖥️ **Co-founder & Software Engineer** at **ServerCreator**
-  Modern game server management.
-  https://servercreator.net
+## 🚀 Current Projects
 
-## 💻 Tech Stack
+### 🌐 Portwarp
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-</div>
+Secure tunneling, networking, and infrastructure platform.
 
-## 📫 Connect with Me
+**Website:** https://portwarp.com
 
-<div>
-  <a href="https://www.linkedin.com/in/geivisonsales">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:geivison.sales@portwarp.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=email&logoColor=white"/>
-  </a>
-</div>
+### 🖥️ ServerCreator
+
+Modern game server management and hosting platform.
+
+**Website:** https://servercreator.net
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,php,js,html,css,tailwind,bootstrap,mysql,redis,docker,linux,git,aws&perline=7"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GeivisonSales&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌎 Connect
+
+<p align="left">
+<a href="https://www.linkedin.com/in/geivisonsales">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:geivison.sales@portwarp.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=email&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+> **Building scalable SaaS products, cloud infrastructure, networking solutions, and developer tools.**
